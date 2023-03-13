@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    margin: 20px;
+    background-color: blue;
+}
+header b,a  {
+    color: white;
+
+}
+main h1{
+    color: darkblue;
+    font-weight: normal;
+}
+.h {
+    background-color: green;
+}
+nav a{
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    margin: 20px;
+    text-decoration: none;
+}
+.align {
+     color: navy;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: white;
+    margin: 20px;
+    text-decoration: none;
+
+}
+.img{
+    border: 3px solid navy;
+     border-radius: 10px;
+    
+}
+main a{
+    color: blue;
+     border: 3px solid navy;
+    padding: 5px;
+      text-decoration: none;
+
+}
+main h2{
+    color: blue;
+}
